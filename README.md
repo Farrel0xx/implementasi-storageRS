@@ -1,4 +1,5 @@
 # 🚀 SFTP Server untuk BPJS & Rumah Sakit
+![Diagram SFTP BPJS](storage1.webp)
 
 ## 📌 Kenapa SFTP? 
 Sistem saat ini (OneDrive) **tidak aman & tidak fleksibel**:
